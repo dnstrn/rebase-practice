@@ -7,7 +7,7 @@ class Car
   end
 
   def info
-    "This car has a capacity of #{@capacity} and #{@color} color"
+    "This car has a capacity of #{capacity} and #{color} color"
   end
 
 end
