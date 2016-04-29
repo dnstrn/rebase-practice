@@ -21,5 +21,5 @@ class Car
   def honk
     "BEEP BEEP!"
   end
-  
+
 end
